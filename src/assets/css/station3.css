@@ -1,4 +1,4 @@
-body{
+.card{
     background-color: #fff;
 }
 .card__title{
@@ -13,8 +13,7 @@ body{
     padding: 5px;
 }
 img{
-    margin-bottom: auto;
+    margin-bottom: 10px;
     width: 288px;
     height: 182px;
-    
 }
