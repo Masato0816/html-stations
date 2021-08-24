@@ -17,7 +17,9 @@
     .card__description{
         font-size: 10px;
         color: #282828;
-        visibility:hidden;
+        position: absolute;
+        top: -9999px; 
+        left: -9999px;
     }
 
     footer{
