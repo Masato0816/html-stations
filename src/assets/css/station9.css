@@ -53,7 +53,7 @@
     .card__description{
         font-size: 10px;
         color: #282828;
-        display: none;
+        visibility:hidden;
     }
 
     img{
