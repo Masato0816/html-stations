@@ -15,11 +15,7 @@
     }
 
     .card__description{
-        font-size: 10px;
-        color: #282828;
-        position: absolute;
-        top: -9999px; 
-        left: -9999px;
+        display: none;
     }
 
     footer{
